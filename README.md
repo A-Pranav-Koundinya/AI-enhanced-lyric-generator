@@ -1,7 +1,7 @@
 # AI-enhanced-lyric-generator
 
 ### Project Description:
-This project aims to develop a Recurrent Neural Network (RNN) model, specifically an LSTM (Long Short-Term Memory) or vanilla RNN, to analyze and generate song lyrics. Leveraging a large dataset of song lyrics, the project will involve the application of natural language processing (NLP) techniques to clean, tokenize, and structure the text data for training a neural network. The ultimate goal is to create a model that not only understands the patterns and context within lyrics but can also generate coherent, contextually relevant text.
+This project aims to develop a Recurrent Neural Network (RNN) model, specifically an LSTM (Long Short-Term Memory) or vanilla RNN, to analyze and generate song lyrics. Leveraging a large dataset of song lyrics, the project will involve application of natural language processing (NLP) techniques to clean, tokenize, and structure the text data for training a neural network. The ultimate goal is to create a model that not only understands the patterns and context within lyrics but can also generate coherent, contextually relevant text.
 
 ### Objectives:
 1. **Data Collection and Preprocessing:** Start by loading a comprehensive dataset of song lyrics across multiple genres. The data preprocessing stage will clean the text by removing punctuation and special characters and then tokenize the lyrics into words, assigning each a unique numerical index.
